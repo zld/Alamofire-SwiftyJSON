@@ -292,6 +292,7 @@
 		A8AFB70619D1401D0070765E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0600;
 				ORGANIZATIONNAME = SwiftJSON;
 				TargetAttributes = {
